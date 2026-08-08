@@ -792,7 +792,7 @@ hello world
 EOF
 ```
 
-Heredoc allows multiple lines to be used as stdin of the preceding command. A normal heredoc acts like a double-quoted `"string"` (e.g., variables are expanded). Quoting the begin and end marker, e.g. `'EOF'`, acts like a single-quoted `'string'`. See [Bash Reference Manual](https://www.gnu.org/software/bash/manual/html_node/Redirections.html#Here-Documents).
+Heredoc lets multiple lines feed stdin. A normal heredoc expands variables (like `"..."`); quoting the marker, e.g. `<<'EOF'`, disables it (like `'...'`). See [Bash Reference Manual](https://www.gnu.org/software/bash/manual/html_node/Redirections.html#Here-Documents).
 
 ### Herestring
 
