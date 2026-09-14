@@ -12,8 +12,8 @@ title: Unicode symbols
     ☀   \u2600 rays
     ⚠   \u26a0 warning
 
-    ★   star
-    ☆   star2
+    ★   \u2605 black star
+    ☆   \u2606 white star
 
     ⚐   \u2690 flag
     ⚑   \u2691 flag
@@ -44,13 +44,15 @@ title: Unicode symbols
 
 ### Triangles and arrows
 
-    ▲
-    ▼
-    ▶
+    ▲   \u25b2 up-pointing triangle
+    ▼   \u25bc down-pointing triangle
+    ▶   \u25b6 right-pointing triangle
+    ◀   \u25c0 left-pointing triangle
 
-    ⬅   \u2b05
-    ⬆   \u2b06
-    ⬇   \u2b07
+    ⮕   \u2b95 right black arrow
+    ⬅   \u2b05 left black arrow
+    ⬆   \u2b06 up black arrow
+    ⬇   \u2b07 down black arrow
 
     ◢
     ◣
@@ -74,13 +76,13 @@ title: Unicode symbols
     ▸   \u25b8 right arrow
     ▹
 
-    ◇   \u25c7
-    ◆
+    ◇   \u25c7 white diamond
+    ◆   \u25c6 black diamond
 
-    ◐
-    ◑
-    ◒
-    ◓
+    ◐   \u25d0 circle with left half black
+    ◑   \u25d1 circle with right half black
+    ◒   \u25b2 up-pointing triangle
+    ◓   \u25b2 up-pointing triangle
 
 
     ♠   \u2660
